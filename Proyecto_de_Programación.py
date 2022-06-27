@@ -8,6 +8,7 @@ saldo=1000
 respuesta=0
 ingreso=0
 retiro=0
+
 #listas
 registro_ingreso=[]
 registro_retiro=[]
